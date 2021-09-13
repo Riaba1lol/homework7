@@ -1,0 +1,18 @@
+.second {
+  background-color: antiquewhite;
+  width: 453px;
+  height: 107;
+  padding-top: 40;
+  border: 10px solid aquamarine;
+  margin-top: 50;
+  margin-left: 70;
+}
+
+.c {
+  background-color: rgb(107, 212, 231);
+  width: 155px;
+  height: 45;
+
+  margin-left: 130;
+  border: 5px solid rebeccapurple;
+}
